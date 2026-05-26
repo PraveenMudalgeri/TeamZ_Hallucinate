@@ -1,14 +1,10 @@
-# NichePulse
+### NichePulse – AI-Powered YouTube Analytics Platform
 
-> **AI-powered YouTube analytics platform** that analyzes channels, detects trending topics, and delivers strategic growth recommendations - so creators grow smarter, not harder.
+Built NichePulse during the HALLUCINATE hackathon conducted by Emergent, an AI-powered YouTube analytics platform leveraging YouTube Data API and Gemini AI for trend detection, channel analysis, and creator growth insights.
 
-🔗 **Live :** [growth-intel-2.emergent.host](https://growth-intel-2.emergent.host)
-
-
-
-## Overview
-
-NichePulse is an AI copilot built for YouTube creators who want to make data-driven decisions. It connects to the **YouTube Data API** and **Google Gemini AI** to surface channel health scores, emerging niche trends, missed topic opportunities, and competitor benchmarks — all in one place.
+- Analyzed YouTube channels to identify emerging niche trends, competitor benchmarks, and missed content opportunities
+- Generated AI-driven strategic recommendations using Google Gemini for smarter creator growth decisions
+- Developed an interactive dashboard integrating YouTube Data API with real-time analytics and channel health scoring
 
 ---
 
