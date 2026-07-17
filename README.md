@@ -52,9 +52,9 @@ Paste any YouTube channel URL for a full growth health workup.
 | **Topic Focus Score** | Content coherence across videos |
 | **Growth Momentum** | Channel trajectory indicator |
 
-- **Missed Trend Detection** — topics in your niche you haven't covered yet
-- **Competitor Comparison** — side-by-side benchmarking against rivals
-- **AI Strategic Summary** — risks, opportunities, and action plans
+- **Missed Trend Detection** - topics in your niche you haven't covered yet
+- **Competitor Comparison** - side-by-side benchmarking against rivals
+- **AI Strategic Summary** - risks, opportunities, and action plans
 
 ![NichePulse Channel Analysis](./ref3.png)
 
